@@ -72,6 +72,4 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216112
 
 
 •	 I would use visual aids that appear in research articles such as Logic models to see if there are shared relationships, activities, and outcomes among the literature I review. Program Evaluation Through the Use of Logic Models. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8729229/
-
-
-
+#

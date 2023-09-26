@@ -1,7 +1,7 @@
 # Abstract-Introduction-Methods
 
 ## Abstract
-
+#
 I will be working directly with the CUNY Graduate School of Public Health & Health Policy’s Harlem Health Initiative as a fieldwork student for the Community Engagement Impact Assessment Project. The project’s aim is to improve the Community programs of Harlem Health Initiative and make recommendations for program improvement. The chosen program evaluation will assess the impact of Harlem Health Initiative’s community engagement efforts and procedures. The success of the project will influence future work within the Harlem Health Initiative. The systematic literature review is the first and most crucial step of this project. My hope is that my research will be used to recommend program improvements and inspire other students’ research in Population Health Informatics. 
 
 ## Introduction
@@ -58,6 +58,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216112
 •	What input, process and outcome indicators can be assessed to measure in program evaluation? Use of health impact assessment in incorporating health considerations in decision making. & Community https://doi.org/10.1136/jech.2005.040105   Examining the links between community participation and health outcomes: A review of the literature. https://doi.org/10.1093/heapol/czu076  
 
 ## Methods
+#
 •	For this capstone I will be doing a systematic review of literature. Literature review will be done by accessing scholarly articles and databases such as JSTOR, Google Scholar and Gale Research. These sources will help to identify the most suitable literature. After the literature is reviewed, I will summarize my findings and make recommendations. 
 
 •	Recommendations will be made based on cluster analysis Comparative Study of Document Clustering Algorithms https://www.sciencepubco.com/index.php/ijet/article/view/20816

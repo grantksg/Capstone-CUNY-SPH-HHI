@@ -29,7 +29,6 @@ I will be working directly with the CUNY Graduate School of Public Health & Heal
 •	What standards of program evaluation are repeated in the research? Improving team effectiveness using a program evaluation logic model https://doi.org/10.54531/fqzq4032    
  Efficacy of Government-Sponsored Community Health Programs for Older Adults: A Systematic Review of Published Evaluation Studies. https://doi.org/10.3389/phrs.2022.1604473    A systematic review of the impact of participatory approaches by UK public health units on health and social outcomes. https://doi.org/10.1093/pubmed/fdq014   
 •	What input, process and outcome indicators can be assessed to measure in program evaluation? Use of health impact assessment in incorporating health considerations in decision making. & Community https://doi.org/10.1136/jech.2005.040105   Examining the links between community participation and health outcomes: A review of the literature. https://doi.org/10.1093/heapol/czu076  
-
 ## Methods
 •	For this capstone I will be doing a systematic review of literature. Literature review will be done by accessing scholarly articles and databases such as JSTOR, Google Scholar and Gale Research. These sources will help to identify the most suitable literature. After the literature is reviewed, I will summarize my findings and make recommendations. 
 •	Recommendations will be made based on cluster analysis Comparative Study of Document Clustering Algorithms https://www.sciencepubco.com/index.php/ijet/article/view/20816
